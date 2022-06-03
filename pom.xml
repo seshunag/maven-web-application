@@ -119,6 +119,7 @@
 				<version>3.3</version>
 				<configuration>
 					<source>${jdk.version}</source>
+				        <executable>//usr/lib/jvm/java-11-openjdk-11.0.15.0.10-2.el8_6.x86_64/bin/javac</executable>
 					<target>${jdk.version}</target>
 				</configuration>
 			</plugin>
